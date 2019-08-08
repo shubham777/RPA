@@ -5,8 +5,8 @@ from time import sleep
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-usernameStr = 'shubhamaggarwal1603@gmail.com'
-passwordStr = 'Iamsexyanduknowit@'
+usernameStr = '$$$$$$$$$$$$$$$$$$$$$$$$'
+passwordStr = '$$$$$$$$$$$$$$$$'
 
 browser = webdriver.Chrome('/home/user8/Desktop/selenium project/driver/chromedriver')
 browser.get(('https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin'))
